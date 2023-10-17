@@ -281,4 +281,6 @@ This project currently uses Ultraviolet, Womginx, and Rammerhead, linked below.
 
 - <a href="https://soyoustart.com/">SoYouStart / OVH</a> (Hosting Provider)
 
+Hello! this is <a target="_blank" href="https://urbigmumz.com">Urbigmumz</a> or <a target="_blank" href="https://github.com/Saturn-XVII">Pandora</a> i added ```vercel.json``` so <a target="_blank" href="https://vercel.com">vercel.com</a> can be used on this.
+
 Thanks :D
